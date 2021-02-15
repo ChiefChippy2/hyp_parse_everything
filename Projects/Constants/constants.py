@@ -208,7 +208,7 @@ bedwars_gamemodes = {"eight_one": "one", "eight_two": "two", "four_three": "thre
     }
 
 # Setup proper name conversions
-bedwars_stat_name_conversions = {"winstreak": "winstreak", "losses": "losses_bedwars", "wins_bedwars": "wins", "games_played_bedwars": "games_played",
+bedwars_stat_name_conversions = {"winstreak": "winstreak", "losses_bedwars": "losses", "wins_bedwars": "wins", "games_played_bedwars": "games_played",
     "beds_lost_bedwars": "beds_lost", "beds_broken_bedwars": "beds_broken", "permanent _items_purchased_bedwars": "permament_items_purchased",
     "kills": {
         "kills": "total",
